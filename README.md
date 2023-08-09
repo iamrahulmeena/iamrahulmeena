@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahulmeena&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahulmeena" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrahulmeena" alt="iamrahulmeena" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **learning ....**
+- 🔭 I’m currently working on **e commerce website project**
 
-- 👯 I’m looking to collaborate on **java script Project...**
+- 🌱 I’m currently learning **blockchain development**
+
+- 👯 I’m looking to collaborate on **full stack project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamrahulmeena](https://github.com/iamrahulmeena)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/iamrahulmeena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrahulmeena" height="30" width="40" /></a>
+<a href="https://instagram.com/iamrahul_meena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrahul_meena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
