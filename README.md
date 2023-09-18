@@ -9,8 +9,6 @@
 # 💫 About Me:
 🔭 I’m currently working on e commerce website project<br><br>🌱 I’m currently learning blockchain development<br><br>👯 I’m looking to collaborate on full stack project<br><br>👨‍💻 All of my projects are available at https://github.com/iamrahulmeena<br><br>💬 Ask me about HTML CSS JavaScript<br><br>📫 How to reach me rahulmeenaoffical@gmail.com
 
-### Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🌐 Socials:
@@ -30,8 +28,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamrahulmeena&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
