@@ -72,9 +72,8 @@ I focus on **data-driven research in financial markets**, combining statistical 
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamrahulmeena&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrahulmeena)](https://github.com/iamrahulmeena)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahulmeena&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
 
 <hr style="height:1px;border:none;background:linear-gradient(to right, transparent, #7F3FBF, transparent);" />
