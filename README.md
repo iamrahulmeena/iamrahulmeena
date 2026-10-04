@@ -46,18 +46,15 @@ I do **data-driven research in financial markets**: statistics, code, and discip
 
 ---
 
-## 📊 Live GitHub Stats <sub>(updates automatically)</sub>
+## 📊 Live GitHub Stats <sub>(self-generated every 6h · includes private repos)</sub>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamrahulmeena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Stats" />
+<img src="./assets/stats.svg" alt="GitHub stats" />
+
+<img src="./assets/commits-30d.svg" alt="Contributions - last 30 days" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahulmeena&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=iamrahulmeena&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrahulmeena&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamrahulmeena&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
