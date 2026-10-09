@@ -3,22 +3,22 @@
 <rect x='12.0' y='12' width='149.6' height='106' rx='10' fill='#161b22'/>
 <rect x='12.0' y='12' width='4' height='106' rx='2' fill='#7F3FBF'/>
 <text x='86.8' y='42' text-anchor='middle' fill='#8b949e' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>TOTAL COMMITS</text>
-<text x='86.8' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>419</text>
+<text x='86.8' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>420</text>
 <text x='86.8' y='98' text-anchor='middle' fill='#c084fc' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>all time, incl. private</text>
 <rect x='173.6' y='12' width='149.6' height='106' rx='10' fill='#161b22'/>
 <rect x='173.6' y='12' width='4' height='106' rx='2' fill='#7F3FBF'/>
 <text x='248.4' y='42' text-anchor='middle' fill='#8b949e' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>COMMITS 2026</text>
-<text x='248.4' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>287</text>
+<text x='248.4' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>288</text>
 <text x='248.4' y='98' text-anchor='middle' fill='#c084fc' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>this year</text>
 <rect x='335.2' y='12' width='149.6' height='106' rx='10' fill='#161b22'/>
 <rect x='335.2' y='12' width='4' height='106' rx='2' fill='#7F3FBF'/>
 <text x='410.0' y='42' text-anchor='middle' fill='#8b949e' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>LAST 30 DAYS</text>
-<text x='410.0' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>187</text>
+<text x='410.0' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>189</text>
 <text x='410.0' y='98' text-anchor='middle' fill='#c084fc' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>contributions</text>
 <rect x='496.8' y='12' width='149.6' height='106' rx='10' fill='#161b22'/>
 <rect x='496.8' y='12' width='4' height='106' rx='2' fill='#7F3FBF'/>
 <text x='571.6' y='42' text-anchor='middle' fill='#8b949e' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>CURRENT STREAK</text>
-<text x='571.6' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>1d</text>
+<text x='571.6' y='74' text-anchor='middle' fill='#e6edf3' font-size='26' font-weight='700' font-family='JetBrains Mono,Consolas,monospace'>2d</text>
 <text x='571.6' y='98' text-anchor='middle' fill='#c084fc' font-size='10' font-family='JetBrains Mono,Consolas,monospace'>longest 7d</text>
 <rect x='658.4' y='12' width='149.6' height='106' rx='10' fill='#161b22'/>
 <rect x='658.4' y='12' width='4' height='106' rx='2' fill='#7F3FBF'/>
