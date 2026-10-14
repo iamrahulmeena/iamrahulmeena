@@ -46,7 +46,7 @@ I do **data-driven research in financial markets**: statistics, code, and discip
 
 ---
 
-## 📊 Live GitHub Stats <sub>(self-generated every 6h · includes private repos)</sub>
+## 📊 Live GitHub Stats <sub></sub>
 
 <div align="center">
 
